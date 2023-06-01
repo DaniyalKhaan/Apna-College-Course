@@ -6,7 +6,7 @@ class Teacher {
         System.out.println(this.name);
         System.out.println(this.age);
     }
-// note: in parameterized cnstrctr we write data types in its ()parameters 
+// note: in parameterized cnstrctor we write data types in its ()parameters 
 //  declaring a parameterized constructor
     Teacher(String name, int age) {
         this.name = name;
