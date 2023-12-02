@@ -26,6 +26,8 @@ class Smartphone {
         System.out.println(this.company);
         System.out.println(this.specs);
         System.out.println(this.price);
+
+          System.out.println(this.price);
         
     }
     // declaring a constructor;
